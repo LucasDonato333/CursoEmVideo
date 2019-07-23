@@ -1,15 +1,11 @@
-# ExPython
+# Curso de Python
 
 ### Curso em Video
 Exercícios Realizados em Python- Curso em Vídeo
 
-Esse repositório tem como meta, armazenar exercícios do canal Curso em Vídeo, com a resolução encontrada nas atividades.
-[TOCM]
+Esse repositório tem como meta, divulgar e armazenar aulas e exercicios disponibilizados pelo canal **[Curso em Video](https://www.youtube.com/user/cursosemvideo)**
 
-https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
 <hr>
-
-
   
 <details>
   <summary>MUNDO 01 - Fundamentos</summary>
