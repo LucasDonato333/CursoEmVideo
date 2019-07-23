@@ -107,7 +107,7 @@ Esse repositório tem como meta, divulgar e armazenar aulas e exercicios disponi
     * [Exercicio 071 - Simulador de Caixa](Python/Exercicios/ex071.py)
   </details>
   
- <details><summary>MUNDO 3 - Estruturas Compostas</summary>
+ <details><summary>MUNDO 03 - Estruturas Compostas</summary>
 
 * [AULA 16 - Tuplas](Python/Aula016/Aula016.py)
 	* [Exercicio 072 - Número por Extenso](Python/Exercicios/ex072.py)
