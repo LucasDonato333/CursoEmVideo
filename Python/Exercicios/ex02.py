@@ -1,1 +1,2 @@
-print('ERROR 404')
+nome = input('Digite seu nome: ')
+print('E um prazer em te conhecer {}!.format(nome))
