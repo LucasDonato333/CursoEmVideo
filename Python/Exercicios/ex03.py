@@ -1,1 +1,0 @@
-print('ERROR 404')
