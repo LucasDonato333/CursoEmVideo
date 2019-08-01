@@ -76,7 +76,7 @@ Esse repositório tem como meta, divulgar e armazenar aulas e exercicios disponi
     * [Exercicio 044 - Gerenciador de Pagamentos](Python/Exercicios/ex044.py)
     * [Exercicio 045 - GAME: Pedra Papel e Tesoura](Python/Exercicios/ex045.py)
 
-  * [AULA 13 - Estrutura de repetição for](Python/Aula013.py)
+  * [AULA 13 - Estrutura de repetição for](Python/Aulas/Aula013.py)
     * [Exercicio 046 - Contagem regressiva](Python/Exercicios/ex046)
     * [Exercicio 047 - Contagem de pares](Python/Exercicios/ex047.py)
     * [Exercicio 048 - Soma ímpares múltiplos de três](Python/Exercicios/ex048.py)
