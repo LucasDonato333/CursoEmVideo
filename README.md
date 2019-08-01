@@ -23,6 +23,9 @@ Esse repositório tem como meta, divulgar e armazenar aulas e exercicios disponi
      * [Exercicio 01 - Deixando tudo Pronto](Python/Exercicios/ex01.py)
      * [Exercicio 02 - Respondendo ao Usuário](Python/Exercicios/ex02.py)
    * [AULA 06 - Tipos Primitivos e Saída de Dados](Python/Aulas/Aula06.py)
+     
+     * [Exercicio 03 -Somando dois números](Python/Exercicios/ex03.py)
+     * [Exercicio 04 - Dissecando uma Variável](Python/Exercicios/ex04.py)
    * [AULA 07 - Operadores Aritiméticos](Python/Aulas/Aula07.py)
      * [Exercicio 05 - Antecessor e Sucessor](Python/Exercicios/ex05.py)
      * [Exercicio 06 - Dobro, Triplo, Raiz Quadrada](Python/Exercicios/ex06.py)
